@@ -1,4 +1,3 @@
-package MP06.Ip.Richarte.Raul.Jouman.MP06.UF04.Java.Acces.Dades.PostgreSQL;
 import java.sql.*;
 import java.util.Scanner;
 public class VehicleCRUD {
